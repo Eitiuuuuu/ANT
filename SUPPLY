@@ -1,0 +1,5 @@
+https://api.bscscan.com/api
+   ?module=stats
+   &action=tokenCsupply
+   &contractaddress=0xd283ce7acd177f7cf6cabb7ce5b11fda3605659e
+   &apikey=KYRGAZJ17WGQB2FP5S5V3N9145P7ZRHXZX
